@@ -1,0 +1,1 @@
+Proje tamamlanmamıştır. Projeyi internet üzerinden herkesin kolayca erişebileceği ve daha fazla kişiye ulaşması amacıyla browser tabanlı uygulama yapmaya karar verdim. Projenin backend kısmına odaklanmış bir şekilde çalışmalarımı sürdürmekteyim.
