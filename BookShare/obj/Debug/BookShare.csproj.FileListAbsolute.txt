@@ -1,0 +1,16 @@
+D:\Coding\C# Projects\BookShare\BookShare\bin\Debug\BookShare.exe.config
+D:\Coding\C# Projects\BookShare\BookShare\bin\Debug\BookShare.exe
+D:\Coding\C# Projects\BookShare\BookShare\bin\Debug\BookShare.pdb
+D:\Coding\C# Projects\BookShare\BookShare\obj\Debug\BookShare.csproj.AssemblyReference.cache
+D:\Coding\C# Projects\BookShare\BookShare\obj\Debug\BookShare.Form1.resources
+D:\Coding\C# Projects\BookShare\BookShare\obj\Debug\BookShare.Properties.Resources.resources
+D:\Coding\C# Projects\BookShare\BookShare\obj\Debug\BookShare.csproj.GenerateResource.cache
+D:\Coding\C# Projects\BookShare\BookShare\obj\Debug\BookShare.csproj.CoreCompileInputs.cache
+D:\Coding\C# Projects\BookShare\BookShare\obj\Debug\BookShare.exe
+D:\Coding\C# Projects\BookShare\BookShare\obj\Debug\BookShare.pdb
+D:\Coding\C# Projects\BookShare\BookShare\obj\Debug\BookShare.Register.resources
+D:\Coding\C# Projects\BookShare\BookShare\obj\Debug\BookShare.Home.resources
+D:\Coding\C# Projects\BookShare\BookShare\obj\Debug\BookShare.PublishBook.resources
+D:\Coding\C# Projects\BookShare\BookShare\obj\Debug\BookShare.MyPublishedBooks.resources
+D:\Coding\C# Projects\BookShare\BookShare\obj\Debug\BookShare.MyProfile.resources
+D:\Coding\C# Projects\BookShare\BookShare\obj\Debug\BookShare.MyRequestedBooks.resources

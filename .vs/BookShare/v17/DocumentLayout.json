@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BookShare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1BABC5-94B9-445D-8ADD-B86412379FF7}|BookShare\\BookShare.csproj|e:\\bookshare\\bookshare\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1BABC5-94B9-445D-8ADD-B86412379FF7}|BookShare\\BookShare.csproj|solutionrelative:bookshare\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1BABC5-94B9-445D-8ADD-B86412379FF7}|BookShare\\BookShare.csproj|e:\\bookshare\\bookshare\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD1BABC5-94B9-445D-8ADD-B86412379FF7}|BookShare\\BookShare.csproj|solutionrelative:bookshare\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1BABC5-94B9-445D-8ADD-B86412379FF7}|BookShare\\BookShare.csproj|e:\\bookshare\\bookshare\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD1BABC5-94B9-445D-8ADD-B86412379FF7}|BookShare\\BookShare.csproj|solutionrelative:bookshare\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1BABC5-94B9-445D-8ADD-B86412379FF7}|BookShare\\BookShare.csproj|e:\\bookshare\\bookshare\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1BABC5-94B9-445D-8ADD-B86412379FF7}|BookShare\\BookShare.csproj|solutionrelative:bookshare\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1BABC5-94B9-445D-8ADD-B86412379FF7}|BookShare\\BookShare.csproj|e:\\bookshare\\bookshare\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD1BABC5-94B9-445D-8ADD-B86412379FF7}|BookShare\\BookShare.csproj|solutionrelative:bookshare\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1BABC5-94B9-445D-8ADD-B86412379FF7}|BookShare\\BookShare.csproj|e:\\bookshare\\bookshare\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1BABC5-94B9-445D-8ADD-B86412379FF7}|BookShare\\BookShare.csproj|solutionrelative:bookshare\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "E:\\BookShare\\BookShare\\Home.cs",
+              "RelativeDocumentMoniker": "BookShare\\Home.cs",
+              "ToolTip": "E:\\BookShare\\BookShare\\Home.cs",
+              "RelativeToolTip": "BookShare\\Home.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:47:31.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs [Tasar\u0131m]",
+              "DocumentMoniker": "E:\\BookShare\\BookShare\\Home.cs",
+              "RelativeDocumentMoniker": "BookShare\\Home.cs",
+              "ToolTip": "E:\\BookShare\\BookShare\\Home.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BookShare\\Home.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:47:30.073Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\BookShare\\BookShare\\App.config",
+              "RelativeDocumentMoniker": "BookShare\\App.config",
+              "ToolTip": "E:\\BookShare\\BookShare\\App.config",
+              "RelativeToolTip": "BookShare\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-26T19:47:21.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "E:\\BookShare\\BookShare\\SignIn.cs",
+              "RelativeDocumentMoniker": "BookShare\\SignIn.cs",
+              "ToolTip": "E:\\BookShare\\BookShare\\SignIn.cs",
+              "RelativeToolTip": "BookShare\\SignIn.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:46:51.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignIn.cs [Tasar\u0131m]",
+              "DocumentMoniker": "E:\\BookShare\\BookShare\\SignIn.cs",
+              "RelativeDocumentMoniker": "BookShare\\SignIn.cs",
+              "ToolTip": "E:\\BookShare\\BookShare\\SignIn.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BookShare\\SignIn.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:46:49.974Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\BookShare\\BookShare\\Register.cs",
+              "RelativeDocumentMoniker": "BookShare\\Register.cs",
+              "ToolTip": "E:\\BookShare\\BookShare\\Register.cs",
+              "RelativeToolTip": "BookShare\\Register.cs",
+              "ViewState": "AQIAANwBAAAAAAAAAAAiwBoCAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:45:28.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
